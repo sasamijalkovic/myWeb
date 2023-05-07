@@ -1,0 +1,61 @@
+body {
+	background-color: #F2F1F0;
+}
+#navigacija {
+	color: #F2F1F0;
+	background-color: #1C1B18;
+	border-radius: 0;
+	margin-bottom: 10;
+}
+#navigacija a {
+	color: #F2F1F0;
+}
+#navigacija a:hover {
+	color: #D3643B;
+}
+#navigacija a:active {
+	color: #A9C7BD;
+}
+#naslov a:hover {
+	color: #A9C7BD;
+}
+#clf {
+	color: black;
+}
+.navbar-default .navbar-toggle {
+	border-color: #D3643B;
+	color: #F2F1F0;
+}
+.navbar-default .navbar-toggle:hover {
+	background-color: #D3643B;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #F2F1F0;
+}
+.navbar-default .navbar-toggle:focus {
+	background-color: #D3643B;
+}
+#firma {
+	max-width: 960px;
+	background-color: #fff;
+}
+.dodaj {
+	margin: 10px;
+}
+.tabela {
+	margin: 10px;
+}
+.forma {
+	margin: 10px;
+	width: 550px;
+	float: left;
+}
+.crveno {
+	float: left;
+}
+.zeleno {
+	float: right;
+} 
+#centar {
+	text-align: center;
+}
