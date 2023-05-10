@@ -60,7 +60,7 @@ body {
 	text-align: center;
 }
 @media (max-width: 396px) {
-	body {
-	  background-color: yellow;
-	}
+#space {
+	margin-top: 10px;
+}
   }
