@@ -59,3 +59,8 @@ body {
 #centar {
 	text-align: center;
 }
+@media (max-width: 396px) {
+  h1 {
+	font-size: 70px;
+  }
+}
